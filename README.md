@@ -1,5 +1,5 @@
 # atc-prometheus-exporter
-Prometheus exporter for Xiaomi LYWSD03MMC thermomethers using https://github.com/atc1441/ATC_MiThermometer firmware
+Passive Prometheus exporter for Xiaomi LYWSD03MMC thermomethers using https://github.com/atc1441/ATC_MiThermometer firmware 
 
 I use a modified USB Bluetooth dongle with soldered RPSMA antenna to improve range. It picks up all my thermometers
 with no issues at all.
